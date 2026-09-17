@@ -217,3 +217,6 @@ Helicopter Rescue Flight Simulator is offered as a complete free version with al
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 Download Helicopter Rescue Flight Simulator today and begin your adventure in rescue missions! Feel the adrenaline and master the skies with your helicopter.
+
+---
+**Last updated:** 2026-09-17 22:43:36 UTC
